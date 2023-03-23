@@ -38,3 +38,6 @@
 - [:arrow_upper_right: Getting Started with Kubernetes LiveLessons, 2nd Edition - Sander van Vugt](https://learning.oreilly.com/videos/getting-started-with/9780136787709/9780136787709-GSK2_00_00_00/)
 - [:arrow_upper_right: Certified Kubernetes Application Developer (CKAD) - Sander van Vugt](https://learning.oreilly.com/videos/certified-kubernetes-application/9780136677628/9780136677628-CKAD_00_00_00/)
 - [:arrow_upper_right: Certified Kubernetes Administrator (CKA)- Sander van Vugt](https://learning.oreilly.com/videos/certified-kubernetes-administrator/9780136677482/9780136677482-CKA1_00_00_00/)
+
+### Caching
+- [:book: Caching at Scale With Redis - Lee Atchison](https://redis.com/docs/caching-at-scale-with-redis/)
