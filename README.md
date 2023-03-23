@@ -24,12 +24,17 @@
 - [:book: Monolith to Microservices - Sam Newman](https://learning.oreilly.com/api/v1/continue/9781492047834/)
 - [:book: Building Microservices - Sam Newman](https://learning.oreilly.com/api/v1/continue/9781491950340/)
 - [:book: Building Microservices, 2nd Edition - Sam Newman](https://learning.oreilly.com/api/v1/continue/9781492034018/)
-
+- [:page_with_curl: Should That Be a Microservice? Keep These Six Factors in Mind](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
+- [:movie_camera: Microservices - Martin Fowler](https://www.youtube.com/watch?v=2yko4TbC8cI)
 
 ### DevOps
+- [:bookmark_tabs: Continuous Delivery](https://continuousdelivery.com/)
 - [:blue_book: The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 - [:book: Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - David Farley, Jez Humble](https://learning.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
 - [:book: The DevOps Handbook - Gene Kim, Jez Humble, Patrick Debois, John Willis](https://learning.oreilly.com/library/view/the-devops-handbook/9781457191381/)
+
+- [:movie_camera: Continuous Delivery sounds great, but it won’t work here - Jez Humble](https://www.youtube.com/watch?v=837Z_oehhRg)
+- [:movie_camera: Continuous Delivery - Martin Fowler](https://www.youtube.com/watch?v=aoMfbgF2D_4)
 ## Technologies
 ### Kubernetes
 - [:movie_camera: Self-Service Vault in Kubernetes](https://www.hashicorp.com/resources/self-service-vault-in-kubernetes)
