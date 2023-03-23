@@ -11,12 +11,15 @@
 ### Domain Driven Design
 - [:page_with_curl:Modeling Uncertainty with Reactive DDD](https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd/)
 - [:book: Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](https://learning.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
+- [:movie_camera: What is DDD - Eric Evans](https://www.youtube.com/watch?v=pMuiVlnGqjk)
 - [:book: Domain-Driven Design Distilled, 1/e - Vaughn Vernon](https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)
 - [:arrow_upper_right: Domain-Driven Design Distilled: Introduction](https://learning.oreilly.com/videos/domain-driven-design-distilled/9780134593449/9780134593449-DDDD_00_00/)
 - [:book: Implementing Domain-Driven Design - Vaughn Vernon](https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/)
 ### Event Driven
 - [:book: Designing Event-Driven Systems - Ben Stopford](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf?_ga=2.96826714.451468121.1584989772-528482071.1584989772)
 - [:book: Making Sense of Stream Processing - Martin Kleppmann](https://www.confluent.io/wp-content/uploads/2016/08/Making_Sense_of_Stream_Processing_Confluent_1.pdf)
+- [:movie_camera: Event Sourcing - Greg Young](https://www.youtube.com/watch?v=8JKjvY4etTY)
+- [:movie_camera: The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 ### Microservices
 - [:book: What Are Microservices?, 2nd Edition - Sam Newman](https://learning.oreilly.com/library/view/what-are-microservices/9781492074946/)
 - [:arrow_upper_right: The Principles of Microservices - Sam Newman](https://learning.oreilly.com/videos/-/9781491935811/continue)
@@ -26,6 +29,9 @@
 - [:book: Building Microservices, 2nd Edition - Sam Newman](https://learning.oreilly.com/api/v1/continue/9781492034018/)
 - [:page_with_curl: Should That Be a Microservice? Keep These Six Factors in Mind](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
 - [:movie_camera: Microservices - Martin Fowler](https://www.youtube.com/watch?v=2yko4TbC8cI)
+- [:movie_camera: Monolith Decomposition Patterns - Sam Newman](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
+- [:movie_camera: Confusion in the Land of the Serverless - Sam Newman](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw)
+- [:movie_camera: Lesson 41 - Microservices Contract Versioning - Mark Richards](https://www.youtube.com/watch?v=iUpD4ZS8qg4)
 
 ### DevOps
 - [:bookmark_tabs: Continuous Delivery](https://continuousdelivery.com/)
