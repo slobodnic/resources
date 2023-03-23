@@ -51,6 +51,10 @@
 
 - [:movie_camera: Continuous Delivery sounds great, but it won’t work here - Jez Humble](https://www.youtube.com/watch?v=837Z_oehhRg)
 - [:movie_camera: Continuous Delivery - Martin Fowler](https://www.youtube.com/watch?v=aoMfbgF2D_4)
+<!--- ### Cloud 
+
+- [:arrow_upper_right: Cloud Architecture: Advanced Concepts - Lee Atchison](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-14595141/orchestrating-your-cloud-architecture?autoplay=true&u=78958162 --->
+
 ## Technologies
 ### Kubernetes
 - [:movie_camera: Self-Service Vault in Kubernetes](https://www.hashicorp.com/resources/self-service-vault-in-kubernetes)
