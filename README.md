@@ -1,5 +1,15 @@
 # List of resources
 
+## Legend
+| Icon | Description |
+|------|---------|
+| :book: | Digital book |
+| :blue_book: | Paper book |
+| :movie_camera: | Video presentation |
+| :page_with_curl: | Article, blog post |
+| :bookmark_tabs: | Website |
+| :arrow_upper_right: | Course, Training |
+
 ## Architecture
 ### General
 - [:blue_book: The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data - Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
