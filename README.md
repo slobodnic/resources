@@ -42,6 +42,8 @@
 - [:movie_camera: Monolith Decomposition Patterns - Sam Newman](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
 - [:movie_camera: Confusion in the Land of the Serverless - Sam Newman](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw)
 - [:movie_camera: Lesson 41 - Microservices Contract Versioning - Mark Richards](https://www.youtube.com/watch?v=iUpD4ZS8qg4)
+- [🎥: When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
+- [📃: Ten Common Anti-Patterns and How to Avoid Them](https://blog.bitsrc.io/10-microservice-anti-patterns-278bcb7f385d) 
 
 ### DevOps
 - [:bookmark_tabs: Continuous Delivery](https://continuousdelivery.com/)
