@@ -31,19 +31,20 @@
 - [:movie_camera: Event Sourcing - Greg Young](https://www.youtube.com/watch?v=8JKjvY4etTY)
 - [:movie_camera: The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 ### Microservices
+- [📃: Ten Common Anti-Patterns and How to Avoid Them](https://blog.bitsrc.io/10-microservice-anti-patterns-278bcb7f385d)
+- [:page_with_curl: Should That Be a Microservice? Keep These Six Factors in Mind](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
 - [:book: What Are Microservices?, 2nd Edition - Sam Newman](https://learning.oreilly.com/library/view/what-are-microservices/9781492074946/)
 - [:arrow_upper_right: The Principles of Microservices - Sam Newman](https://learning.oreilly.com/videos/-/9781491935811/continue)
 - [:movie_camera: Software Architecture Superstream Series: Software Architecture Fundamentals - Neal Ford, Sam Newman, Mark Richards, Nathaniel Schutta and Rebecca Parsons](https://learning.oreilly.com/videos/-/0636920446712/continue)
 - [:blue_book:](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848)[:book: Monolith to Microservices - Sam Newman](https://learning.oreilly.com/api/v1/continue/9781492047834/)
 - [:blue_book:](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)[:book: Building Microservices - Sam Newman](https://learning.oreilly.com/api/v1/continue/9781491950340/)
 - [:blue_book:](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/B09RTQY7SX)[:book: Building Microservices, 2nd Edition - Sam Newman](https://learning.oreilly.com/api/v1/continue/9781492034018/)
-- [:page_with_curl: Should That Be a Microservice? Keep These Six Factors in Mind](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
 - [:movie_camera: Microservices - Martin Fowler](https://www.youtube.com/watch?v=2yko4TbC8cI)
 - [:movie_camera: Monolith Decomposition Patterns - Sam Newman](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
 - [:movie_camera: Confusion in the Land of the Serverless - Sam Newman](https://www.youtube.com/watch?v=Y6B3Eqlj9Fw)
 - [:movie_camera: Lesson 41 - Microservices Contract Versioning - Mark Richards](https://www.youtube.com/watch?v=iUpD4ZS8qg4)
 - [🎥: When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
-- [📃: Ten Common Anti-Patterns and How to Avoid Them](https://blog.bitsrc.io/10-microservice-anti-patterns-278bcb7f385d) 
+ 
 
 ### DevOps
 - [:bookmark_tabs: Continuous Delivery](https://continuousdelivery.com/)
